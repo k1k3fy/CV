@@ -1,0 +1,19 @@
+body{   background:darkblue url("https://peru21.pe/resizer/iHHForuAJP04xlfolErLRVqZTio=/980x528/smart/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DVNFUNYPOBB7RGAVSPUOWF4NAI.jpg")}
+  
+
+span.es_rojo {
+    color:red;
+    font-size: x-large;
+}
+
+span.linea:hover{
+    font-weight: bold;
+    color:blue;
+}
+
+
+p::first-letter{ 
+    font-size: 50px;
+}
+
+
